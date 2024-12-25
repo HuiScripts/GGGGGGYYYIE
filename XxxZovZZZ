@@ -1,6 +1,6 @@
 WeaponOwnedRange = {
   min=1,
-  max=150
+  max=2
 }
 
 local DataBase, PlayerData = require(game:GetService("ReplicatedStorage").Database.Sync.Item), require(game:GetService("ReplicatedStorage").Modules.ProfileData)
